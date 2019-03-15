@@ -1,0 +1,13 @@
+#img-div{
+  width: 500px;
+  max-width: 30%;
+  margin: 0 auto;
+}
+
+img{
+  
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
